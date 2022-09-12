@@ -1,19 +1,13 @@
 ## 실행 컨텍스트(ExecutionContext)란?
 
----
-
 자바스크립트 코드를 실행할 때 필요한 정보들을 저장하고 제공하는 환경을 뜻한다.
 
 ## 실행 컨텍스트의 구성 요소
-
----
 
 - 실행 컨텍스트는 `Lexical Enviroment(LE)`와 `Variable Environment(VE)` 두 가지 컴포넌트로 구성된다.
 - LE, BE는 `Environment Records(ER)` 이라고 불리는 형태로 구성된다.
 
 ## Environment Records와 스코프 체인
-
----
 
 - ER은 렉시컬 스코프를 기반으로 `특정 변수와 함수에 대한 식별자 연결 정보를 저장`한다.
 - ER이 생성되는 예시
@@ -34,14 +28,10 @@ foo();
 
 ## Lexical Environment와 Varibale Environment
 
----
-
 - LE와 VE는 모두 ER에 바인딩된 정보를 찾을 수 있는 컴포넌트이다.
 - var 키워드는 VE, 이외는 LE를 통해 찾는다.
 
 ## 실행 컨텍스트의 생성 과정
-
----
 
 ```jsx
 console.log("global context");
