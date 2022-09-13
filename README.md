@@ -18,3 +18,7 @@
 ### JavaScript
 
 - [실행 컨텍스트](./JavaScript/ExecutionContext.md)
+
+### ETC
+
+- [[인프콘] 나도 내 코드의 문제를 찾고 싶다구요?!](./ETC/InfConTesting.md)
