@@ -18,7 +18,14 @@
 ### JavaScript
 
 - [실행 컨텍스트](./JavaScript/ExecutionContext.md)
-- [브라우저 렌더링](./JavaScript/BrowserRendering.md)
+
+### Browser
+
+- [브라우저 렌더링](./Browser/BrowserRendering.md)
+
+### Network
+
+- [HTTP 통신](./Network/HTTP.md)
 
 ### ETC
 
