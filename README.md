@@ -1,6 +1,6 @@
 # Today I Learned
 
-📝&nbsp;&nbsp;&nbsp;어제보다 오늘 더 발전하는 개발자가 되기 위해 남기는 기록
+📝&nbsp;&nbsp;어제보다 오늘 더 발전하는 개발자가 되기 위해 남기는 기록
 <br/><br/>
 
 ## 목표
@@ -32,6 +32,7 @@
 - [Promise](./Network/Promise.md)
 - [async & await](./Network/asyncAndAwait.md)
 - [Fetch](./Network/Fetch.md)
+- [WebSocket](./Network/WebSocket.md)
 
 ### ETC
 
