@@ -34,6 +34,10 @@
 - [Fetch](./Network/Fetch.md)
 - [WebSocket](./Network/WebSocket.md)
 
+### Redux
+
+- [Redux란?](./Redux/ReduxBasic.md)
+
 ### Tool
 
 - [NodeJS](./Tool/NodeJS.md)
