@@ -34,9 +34,13 @@
 - [Fetch](./Network/Fetch.md)
 - [WebSocket](./Network/WebSocket.md)
 
-### Redux
+### Library
 
 - [Redux란?](./Redux/ReduxBasic.md)
+
+### Framework
+
+- [SPA와 SSR](./Framework/SPAandSSR.md)
 
 ### Tool
 
