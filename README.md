@@ -1,17 +1,21 @@
 ## Today I Learned
 ✍️ &nbsp;&nbsp;어제보다 오늘 더 발전하는 개발자가 되기 위해 남기는 기록
-<br/><br/>
+<br/>
 
 ## 목표
 1. 배운 것을 정제하여 기록한다.
 2. 매일 꾸준하게 기록한다.
+<br/>
 
 ## 작성 방법
 - 마크다운 문법으로 간결하게 정리하여 기록한다
 - 기록은 최대한 간결하게 작성하며 구체적으로 기록하고 싶을 경우 외부 링크를 사용한다
+<br/>
 
+## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-09-27 | [npm 명령어와 npx 명령어로 create-react-app을 만들 때](https://www.notion.so/longtimehwang/npm-npx-create-react-app-ee2cb320a63549bb986aefb456a94eeb)
 | 2022-09-26 | [SPA와 CSR 그리고 SSR](./Docs/Framework/SPAandSSR.md)
 | 2022-09-25 | [Redux 기본](./Docs/Library/ReduxBasic.md)
 | 2022-09-24 | [yarn](./Docs/Tool/Yarn.md)
