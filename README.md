@@ -15,6 +15,7 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-09-30 | [면접을 위한 CS 전공지식 노트 (1) - 프로그래밍 패러다임](https://longtimehwang.notion.site/CS-1-0cc66ebce1f14ea890e4d56b403c820e)
 | 2022-09-29 | [React + Redux 플로우의 이해](https://longtimehwang.notion.site/React-Redux-aff1a3acc59d47d1826776bdd1a6fded)
 | 2022-09-28 | [React의 생명주기 메서드](./Docs/Framework/ReactJS/ReactLifeCycle.md)
 | 2022-09-27 | [npm 명령어와 npx 명령어로 create-react-app을 만들 때](https://www.notion.so/longtimehwang/npm-npx-create-react-app-ee2cb320a63549bb986aefb456a94eeb)
