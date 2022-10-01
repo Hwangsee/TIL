@@ -15,6 +15,7 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-10-01 | [React를 이용하여 투두리스트 만들기](https://longtimehwang.notion.site/React-e80477ec61724b71986baa99e309d0a2)
 | 2022-09-30 | [면접을 위한 CS 전공지식 노트 (1) - 프로그래밍 패러다임](https://longtimehwang.notion.site/CS-1-0cc66ebce1f14ea890e4d56b403c820e)
 | 2022-09-29 | [React + Redux 플로우의 이해](https://longtimehwang.notion.site/React-Redux-aff1a3acc59d47d1826776bdd1a6fded)
 | 2022-09-28 | [React의 생명주기 메서드](./Docs/Framework/ReactJS/ReactLifeCycle.md)
