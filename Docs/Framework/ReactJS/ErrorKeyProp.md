@@ -1,4 +1,4 @@
-### Each child in a list should have a unique "key" prop 오류
+## Each child in a list should have a unique "key" prop 오류
 
 - 리액트에서 배열을 렌더링 할 때에는 key 라는 props 를 설정해야한다.
 - key 값은 각 원소들마다 가지고 있는 고유값으로 설정을 해야한다.
@@ -66,7 +66,7 @@ export default UserList;
 - 자바스크립트의 배열은 정적이지 않기 때문에 **배열의 index를 key prop으로 사용하는 것은 지양**해야 한다.
 - 배열의 원소의 순서가 바뀌면 index도 바뀌고 컴포넌트마다 고유해야 하는 key 값도 바뀐다.
   - 이는 리렌더링 시 잘못된 컴포넌트를 리렌더링 오류를 발생시킬 수 있다.
-- key 값은 전역적으로 고유할 필요는 없으며 형제 요소에서 고유행 한다.
+- key 값은 전역적으로 고유할 필요는 없으며 형제 요소에서 고유해야 한다.
 
 > 출처  
 [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/basic/11-render-array.html)

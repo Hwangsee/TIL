@@ -15,6 +15,7 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-10-06 | [동적 라우팅 - Query parameters, URL parameters](./Docs/Framework/ReactJS/DynamicRouting.md) 
 | 2022-10-05 | [unique "key" prop 오류 해결하기](./Docs/Framework/ReactJS/ErrorKeyProp.md)
 | 2022-10-04 | [useEffect 알아보기](./Docs/Framework/ReactJS/useEffect.md)
 | 2022-10-03 | [Context API와 Redux 비교하기](./Docs/Library/ContextAPIandRedux.md)
