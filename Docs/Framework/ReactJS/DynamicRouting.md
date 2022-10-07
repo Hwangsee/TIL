@@ -148,7 +148,7 @@ fetch(`${localhost}/job/detail/${this.props.match.params.id}`, {
 - 유동 라우터랑 라우트 경로에 특정 값을 넣어 해당 페이지로 이동할 수 있게 하는 것인데, React Router에서는 두 가지 방법을 통해 유동 라우팅 기능을 이용할 수 있다.
 - 1) Query String, 2) URL Parameter
 
-> 문서 요약 출처
+> 문서 정리 출처
 > 
 
 [https://velog.io/@joonsikyang/React-Project-URL-parameters-Query-parameters](https://velog.io/@joonsikyang/React-Project-URL-parameters-Query-parameters)
