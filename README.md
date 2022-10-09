@@ -15,6 +15,7 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-10-09 | [자바스크립트 코딩 기법과 핵심 패턴 - 1장. 개요 정리](https://longtimehwang.notion.site/1-935d072f32674059b5f905790aabb286) 
 | 2022-10-08 | [[ReactJS] useMemo](./Docs/Framework/ReactJS/useMemo.md)
 | 2022-10-07 | [[JavaScript] - 타입 변환](./Docs/JavaScript/TypeChange.md)
 | 2022-10-06 | [[ReactJS] 동적 라우팅 - Query parameters, URL parameters](./Docs/Framework/ReactJS/DynamicRouting.md) 
