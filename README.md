@@ -15,7 +15,8 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
-| 2022-10-10 | [자바스크립트 코딩 기법과 핵심 패턴 - 2장. 기초](https://longtimehwang.notion.site/2-e64335874fd045f3bec42d0ba76fd61f)
+| 2022-10-10 | [자바스크립트 코딩 기법과 핵심 패턴 - 3장. 리터럴과 생성자](.https://longtimehwang.notion.site/3-df263e44340c40aea5050f447e25abdf)
+|  | [자바스크립트 코딩 기법과 핵심 패턴 - 2장. 기초](https://longtimehwang.notion.site/2-e64335874fd045f3bec42d0ba76fd61f)
 | 2022-10-09 | [자바스크립트 코딩 기법과 핵심 패턴 - 1장. 개요 정리](https://longtimehwang.notion.site/1-935d072f32674059b5f905790aabb286) 
 | 2022-10-08 | [[ReactJS] useMemo](./Docs/Framework/ReactJS/useMemo.md)
 | 2022-10-07 | [[JavaScript] - 타입 변환](./Docs/JavaScript/TypeChange.md)
