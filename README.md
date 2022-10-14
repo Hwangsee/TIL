@@ -15,7 +15,8 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
-| 2022-10-13 | [자바스크립트 코딩 기법과 핵심 패턴 - 5장. 객체 생성 패턴](.https://www.notion.so/longtimehwang/5-c8ca54d60e23489eb40f51f8420e6c12)
+| 2022-10-14 | [자바스크립트 코딩 기법과 핵심 패턴 - 6장. 코드 재사용 패턴 ~ 8장. DOM과 브라우저](https://longtimehwang.notion.site/6-8-DOM-0db9fa041df04443b946df598519e49c) 
+| 2022-10-13 | [자바스크립트 코딩 기법과 핵심 패턴 - 5장. 객체 생성 패턴](https://www.notion.so/longtimehwang/5-c8ca54d60e23489eb40f51f8420e6c12)
 | 2022-10-12 | [React.ReactNode와 JSX.Element 어떤 차이가 있나요?](./Docs/Framework/ReactJS/ReactNodeAndJSXElement.md)
 | 2022-10-11 | [자바스크립트 코딩 기법과 핵심 패턴 - 4장. 함수](https://longtimehwang.notion.site/4-bc2dfcdeeda0425ea8723fc3f2f6ad22)
 | 2022-10-10 | [자바스크립트 코딩 기법과 핵심 패턴 - 3장. 리터럴과 생성자](https://longtimehwang.notion.site/3-df263e44340c40aea5050f447e25abdf)
