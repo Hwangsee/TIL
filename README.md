@@ -15,6 +15,7 @@
 ## 보기
 | 날짜 | 설명 |
 | --- | --- |
+| 2022-10-16 | [쏙쏙 들어오는 함수형 코딩 정리 (1)](https://longtimehwang.notion.site/509ca09c32ab4fd189b6fad92ab1cee8)
 | 2022-10-15 | [React 클래스형 컴포넌트와 함수형 컴포넌트의 차이](./Docs/Framework/ReactJS/ClassBasedComponentAndFunctionBasedComponent.md)
 | 2022-10-14 | [자바스크립트 코딩 기법과 핵심 패턴 - 6장. 코드 재사용 패턴 ~ 8장. DOM과 브라우저](https://longtimehwang.notion.site/6-8-DOM-0db9fa041df04443b946df598519e49c) 
 | 2022-10-13 | [자바스크립트 코딩 기법과 핵심 패턴 - 5장. 객체 생성 패턴](https://www.notion.so/longtimehwang/5-c8ca54d60e23489eb40f51f8420e6c12)
