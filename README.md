@@ -1,6 +1,9 @@
+✨ TIL은 [블로그](https://HwangSee.github.io)에 이어서 작성합니다.
+
 ## Today I Learned
 ✍️ &nbsp;&nbsp;어제보다 오늘 더 발전하는 개발자가 되기 위해 남기는 기록
 <br/>
+
 
 ## 목표
 1. 배운 것을 정제하여 기록한다.
